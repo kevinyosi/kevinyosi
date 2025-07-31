@@ -22,7 +22,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/kevinyosi"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/kvnyosi"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://facebook.com/kvnyosi"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
 </p>
 
 ---
@@ -31,12 +30,12 @@
 
 #### 🚀 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,less,tailwind,js,ts,react,next,vue,nuxt" />
+  <img src="https://skillicons.dev/icons?i=html,css,less,tailwind,js,ts,react,next,vue,nuxt,npm" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,py,fastapi" />
 </p>
 
 #### 🛢️ Databases
@@ -51,7 +50,7 @@
 
 #### 🧰 Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,jenkins,notion,canva" />
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,postman,discord,docker,cloudflare" />
 </p>
 
 ---
