@@ -19,7 +19,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/kevinyosi"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://instagram.com/kvnyosi"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
