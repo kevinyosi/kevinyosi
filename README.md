@@ -50,7 +50,7 @@
 
 #### 🧰 Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,postman,discord,docker,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,postman,discord,docker,cloudflare,git" />
 </p>
 
 ---
