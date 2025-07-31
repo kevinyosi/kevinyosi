@@ -83,5 +83,6 @@
 If you're interested in building full-stack apps, collaborating on frontend/backend systems, or just want to chat about dev life — feel free to reach out or follow!
 
 ---
-
 <img src="https://raw.githubusercontent.com/kevinyosi/kevinyosi/output/snake.svg" alt="Snake animation" />
+
+###
