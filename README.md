@@ -65,6 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinyosi&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevinyosi&label=Profile%20views&color=0e75b6&style=flat" alt="kevinyosi" />
+</p>
 ---
 
 ### 💬 Let's Connect!
