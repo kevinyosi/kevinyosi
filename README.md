@@ -13,7 +13,7 @@
 - 🌱 I’m expanding my skills in **modern JavaScript frameworks** and backend APIs
 - 🤝 I’m open to collaborating on **Open Source Projects** or **Freelance Web Projects**
 - 💡 I love discussing about: **Frontend & Backend Architecture | UI/UX | Scalable Systems | DevSecOps & Tools**
-- 📫 Reach me on: **LinkedIn / Instagram**
+- 📫 Let’s connect on: **LinkedIn / Instagram**
 
 ---
 
