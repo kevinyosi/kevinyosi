@@ -7,7 +7,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 
 - **Current Focus:** Leading full-stack development and engineering operations, delivering robust software solutions and managing technical architecture for digital agencies.
 - **Technical Growth:** Actively advancing expertise in DevSecOps, API security hardening, and systems programming with Rust.
