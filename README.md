@@ -1,19 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Kevin Yosi</h1>
+<h1 align="center">Hello 👋, I'm Kevin Utama</h1>
 
 <p align="center">
-  🚀 Full Stack Web Developer | UI/UX Enthusiast | Open Source Learner  
-  💻 I build things from pixel to database — with passion and precision.
+  Full Stack Software Engineer | Technical Lead | Infrastructure & Automation  
+  Designing and building scalable web applications, secure backend architectures, and automated business workflows.
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Full Stack Web Developer**
-- 🌱 I’m expanding my skills in **modern JavaScript frameworks** and backend APIs
-- 🤝 I’m open to collaborating on **Open Source Projects** or **Freelance Web Projects**
-- 💡 I love discussing about: **Frontend & Backend Architecture | UI/UX | Scalable Systems | DevSecOps & Tools**
-- 📫 Let’s connect on: **LinkedIn / Instagram**
+- **Current Focus:** Leading full-stack development and engineering operations, delivering robust software solutions and managing technical architecture for digital agencies.
+- **Technical Growth:** Actively advancing expertise in DevSecOps, API security hardening, and systems programming with Rust.
+- **Core Interests:** Software Architecture, Cloud Infrastructure, System Automation, and High-Performance Web Applications.
+- **Collaboration:** Open to technical consulting, architecture planning, and professional freelance development.
 
 ---
 
